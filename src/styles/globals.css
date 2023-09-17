@@ -25,3 +25,25 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+#timer {
+  text-align: center;
+  font-size: 2em;
+}
+
+#box-content {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  float: left;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.box img {
+  height: 100%;
+}
