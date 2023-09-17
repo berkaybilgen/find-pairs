@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Istanbul",
+    "image": "istanbul.jpg"
+  },
+  {
+    "name": "Amsterdam",
+    "image": "amsterdam.jpg"
+  },
+  {
+    "name": "Athens",
+    "image": "athens.jpg"
+  },
+  {
+    "name": "Prague",
+    "image": "prague.jpg"
+  },
+  {
+    "name": "Vienna",
+    "image": "vienna.jpg"
+  },
+  {
+    "name": "Ohrid",
+    "image": "ohrid.jpg"
+  },
+  {
+    "name": "Budapest",
+    "image": "budapest.jpg"
+  },
+  {
+    "name": "Paris",
+    "image": "paris.jpg"
+  }
+]
