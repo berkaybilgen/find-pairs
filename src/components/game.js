@@ -90,6 +90,7 @@ const Game = () => {
   boxes = cities.map((city) => {
     return (
       <Box
+        key={city.index}
         index={city.index}
         image={city.image}
         isOpen={city.isOpen}
